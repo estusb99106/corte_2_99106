@@ -55,7 +55,7 @@ class DeportistaFutbol(Deportista):
     # ------ Sobrecarga metodo -----
     def palmares(self):
         return 'Gano la Europa UEFA League'
-
+ 
 def main():
     Futbolista = DeportistaFutbol('Falcao',24152637,36,\
         35,'Selección Colombia')
